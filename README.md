@@ -1,5 +1,5 @@
 - # persian fonts
-- Some Persian Font - For Text and Title.
+- Some Persian Fonts - Text & Title.
   <br><br>
 
 - ## Text
